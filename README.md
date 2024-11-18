@@ -10,3 +10,5 @@ assuming your in edl mode
 
 link to onedrive as its 4.7 gigs 
 https://1drv.ms/u/c/84af7d5ad6007e76/EQmQnBc2ogxHrFN3qAFFHPIBpLh7fuBy0PPc983GfIDsgQ
+
+if link does not work please let me know and i will fix
